@@ -15,6 +15,6 @@ v0.0.0
 
 ---
 
-![P52](.img/tile-p52-e.jpg)
+![P52](/img/tile-p52-e.jpg.jpg)
 
 more.. : [P52](http://P52.github.io)/[P52bot](http://P52bot.github.io) 
