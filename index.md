@@ -12,4 +12,9 @@ v0.0.0
 
 ## All Rights Reserved.
 
+
+---
+
+![P52](.img/tile-p52-e.jpg)
+
 more.. : [P52](http://P52.github.io)/[P52bot](http://P52bot.github.io) 
